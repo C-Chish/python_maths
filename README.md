@@ -1,5 +1,5 @@
 # Basic-Arithmetic-Operators
-Shortcut for remembering 
+Shortcut for remembering quick operators
 
 # Arithmetic Operators:
 # Addition:       3 + 2
