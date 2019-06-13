@@ -5,9 +5,8 @@
 
 # num_1 = '100'
 # num_2 = '200'  # this is a string lol
-
 # print(num_1 + num_2)
-# these two have bee inated
+# returns: 100200
 
 # ~CASTING
 # to turn them into intergers
