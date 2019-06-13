@@ -1,0 +1,63 @@
+Write “Hello Leslie” to the command line in python.
+print(‘Hello Leslie’)
+
+
+Create two integer variables (call them whatever you like) add them together and print the two numbers and the result on the command line in the following format “Number 1 is <n1> and number 2 is <n2>. Added together they make <n3>!”
+
+
+
+
+
+Create integer, floating point, string and boolean variables and print the name and type to the command line. Hint, use the built-in functin type() to print the type of the variable.
+
+
+
+
+
+Write a function that takes two numbers, adds them together and returns the result. Print the results out in the same way as question 2.
+
+
+
+
+Write a function that takes two numbers and returns true if the numbers are the same and false if they aren’t.
+
+
+
+
+Using the function from Q5 write a python script that asks the user for 2 numbers and then tells them if the numbers match. Provided is example code to get user input from the command line.
+
+a = int(input("Enter first number\n"))
+b = int(input("Enter second number\n"))
+
+
+
+Write a script that takes one input, the person’s name, and prints “Is silly” if the name is Leslie, “Is cute” if the name is Lina or “Unknown” if the person’s name isn’t recognised. Code is provided to get input from the command line.
+
+name = input("Enter your name\n")
+
+
+
+Create an array with numbers from 0-9.
+
+
+Write a for loop that prints the numbers from 0-9.
+
+
+
+Write a while loop that prints the numbers from 0-9.
+
+
+
+
+Create an array with numbers from 0-9, multiply each element by 2 and print it out.
+
+
+
+Print the first 5 elements and last 5 elements of the array from 0-9.
+
+
+Print all of the even numbers in the array. Hint use the % operator. Extra credit will be given for both ways of doing this (no hints given for second method).
+
+
+
+Ask the user for a number (use int(input(“message\n”))) print all values in the array up to but not including this number. For example, if the user asks for 3 the program prints out 0,1,2.
