@@ -12,11 +12,11 @@
 # to turn them into integers
 
 # num_1 = int(num_1)
-<<<<<<< HEAD
+<< << << < HEAD
 # num_2 = int(num_2)  # this is a function to create an interger
-=======
+== == == =
 # num_2 = int(num_2)  # this is a function o create an integer
->>>>>>> facc01caaaefed076bbc4e48ad495727b323ab1b
+>>>>>> > facc01caaaefed076bbc4e48ad495727b323ab1b
 
 # print(num_1 + num_2)
 
