@@ -9,10 +9,14 @@
 # returns: 100200
 
 # ~CASTING
-# to turn them into intergers
+# to turn them into integers
 
 # num_1 = int(num_1)
+<<<<<<< HEAD
 # num_2 = int(num_2)  # this is a function to create an interger
+=======
+# num_2 = int(num_2)  # this is a function o create an integer
+>>>>>>> facc01caaaefed076bbc4e48ad495727b323ab1b
 
 # print(num_1 + num_2)
 
@@ -46,8 +50,8 @@
 # ['Python', 'C#', 'Ruby', 'GIT', 'Atom']
 
 # ~INSERT
-# Insert adds it to a specidic location
-# Takes two arguements (the index you want to insert it)
+# Insert adds it to a specific location
+# Takes two arguments (the index you want to insert it)
 # (location : value) eg:
 # print(courses)
 # courses.insert(1, 'Atom')
@@ -79,7 +83,7 @@
 
 # or you can use ~POP
 # courses.pop()
-# removes the last item on the lsit
+# removes the last item on the list
 # print(courses)
 # ['Python', 'C#', 'Ruby'](removed GIT)
 # pop also prints out the value it removed
@@ -102,7 +106,7 @@
 # nums.sort()
 # print(nums)
 
-# Decending Order
+# Descending Order
 # courses.sort(reverse=True)
 # nums.sort(reverse=True)
 # print(nums)
@@ -142,7 +146,7 @@
 # Creating a loop that goes through each value of the list
 # Each loop through this item variable will be
 # equal to the next item in the list
-# The indentation is to say the code is excecuted from within the for loop
+# The indentation is to say the code is executed from within the for loop
 # "item" is just a var, it can be changed
 
 # ~ENUMERATE function
@@ -172,9 +176,9 @@ courses = ['Python', 'C#', 'Ruby', 'GIT']
 
 # TUPLES() & SETS{}
 # similar to lists but can't modify them
-# mutable eg: "lists" inmutable eg: "turps"
+# mutable eg: "lists" immutable eg: "turps"
 
-# inmutable- not many methods to use, can loop, access values.
+# immutable- not many methods to use, can loop, access values.
 # can't be modified
 # tuple1 = ('Hugs', 'Food', 'Stuff')
 # tuple2 = tuple1
@@ -182,7 +186,7 @@ courses = ['Python', 'C#', 'Ruby', 'GIT']
 # print(tuple1)
 # print(tuple2)
 # if we were to try modify it:
-# tuple1[1] = 'Cake' -it woudl return
+# tuple1[1] = 'Cake' -it would return
 # TypeError: 'tuple' object does not support item assignment
 # pro tip- ctrl + / = comment out code fast
 
@@ -191,7 +195,7 @@ courses = ['Python', 'C#', 'Ruby', 'GIT']
 # set_list = {'home', 'food', 'sleep}
 # print(set_list)
 # results in:{'food', 'home', 'sleep'}
-# main uses for a tets is to testif a value is part of a set
+# main uses for a test is to test if a value is part of a set
 # and to remove duplicate values eg:
 # set_list = {'home', 'food', 'food', 'sleep'}
 # print(set_list)
@@ -218,7 +222,7 @@ courses = ['Python', 'C#', 'Ruby', 'GIT']
 # # returns: {'home'}
 
 # ~UNION method
-# print out all sets, conjointed together eg:
+# print out all sets, conjoined together eg:
 # set_list = {'home', 'food', 'food', 'sleep'}
 # inter_list = {'dogs', 'food', 'cats', 'sleep'}
 # print(set_list.union(inter_list))
