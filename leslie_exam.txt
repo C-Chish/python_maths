@@ -1,5 +1,5 @@
 Write “Hello Leslie” to the command line in python.
-print(‘Hello Leslie’)
+
 
 
 Create two integer variables (call them whatever you like) add them together and print the two numbers and the result on the command line in the following format “Number 1 is <n1> and number 2 is <n2>. Added together they make <n3>!”

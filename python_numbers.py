@@ -12,7 +12,7 @@
 # to turn them into intergers
 
 # num_1 = int(num_1)
-# num_2 = int(num_2)  # this is a functiont o create an interger
+# num_2 = int(num_2)  # this is a function to create an interger
 
 # print(num_1 + num_2)
 
@@ -66,7 +66,7 @@
 # INSERT in this case inserts the whole list
 # instead of individual values inside the list
 # So instead use INSERT
-# courses.extend(courses_2)
+# courses.insert(courses_2)
 # print(courses)
 # ['Python', 'C#', 'Ruby', 'GIT', 'cooking', 'karate']
 
